@@ -1,5 +1,5 @@
 # QuirkyAnimalsAR 🦁🌳
-### Wearable Technology Final Project (LA03)
+### Wearable Technology Final Project (LB03)
 
 **QuirkyAnimalsAR** is an augmented reality application that showcases adorable 3D models of various animals with lively animations. Built using Unity, this app brings quirky creatures to life, providing a fun and interactive AR experience.
 <br><br>
